@@ -1,0 +1,15 @@
+{
+  "name": "fs_m1_s15_u1_entregable_jest",
+  "version": "1.0.0",
+  "description": "En este ejercicio, crearemos una aplicación simple de administración de productos usando JavaScript. Usaremos los test unitarios para asegurarnos de que nuestro código funcione según lo esperado. Para nuestro testing usaremos Jest.",
+  "main": "product.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "29.7.0"
+  }
+}
